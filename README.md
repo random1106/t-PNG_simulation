@@ -1,6 +1,11 @@
 # t-PNG_simulation
-The simulation is done by Python, which simulates the t-Polynuclear growth model with different parameter choice of t. 
-The result of the simulation can be on page 29, Fig 19 of our paper https://arxiv.org/pdf/2204.11158.pdf
+The simulation is done by Python, which simulates the deformed PolyNuclear Growth model with different parameters. 
+
+The file simulation.py provides a visulization of the model. 
+
+The file height.py simulates the height function in large scale and compare it with the theoretical limit. 
+
+The result of the simulation can also be found https://arxiv.org/pdf/2204.11158.pdf
 
 # Reference 
 
