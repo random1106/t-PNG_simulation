@@ -1,4 +1,4 @@
-# t-PNG_simulation
+# tPNG_simulation
 The simulation is done by Python, which simulates the deformed PolyNuclear Growth model with different parameters. 
 
 The file simulation.py provides a visulization of the model. 
